@@ -4,7 +4,7 @@ rm -f ft*.o
 rm -f libftprintf.a
 rm -f tst1
 
-. ../../vwlfbrg/bin/activate
+#. ../../vwlfbrg/bin/activate
 norminette ft*.c ft*.h 
 echo -e "\e[1;45m-------------------------norm-------\e[1;m"
 
