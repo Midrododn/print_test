@@ -1,0 +1,215 @@
+ft_dectohex.c: OK!
+ft_fun_num.c: OK!
+ft_fun_str.c: OK!
+ft_itoa.c: OK!
+ft_printf.c: Error!
+Error: TOO_MANY_LINES       (line:  47, col:   1):	Function has more than 25 lines
+ft_utoa.c: OK!
+head.h: OK!
+a - ft_dectohex.o
+a - ft_fun_num.o
+a - ft_fun_str.o
+a - ft_itoa.o
+a - ft_printf.o
+a - ft_utoa.o
+ft_dectohex.c
+ft_dectohex.o
+ft_fun_num.c
+ft_fun_num.o
+ft_fun_str.c
+ft_fun_str.o
+ft_itoa.c
+ft_itoa.o
+ft_printf.c
+ft_printf.h
+ft_printf.o
+ft_utoa.c
+ft_utoa.o
+head.h
+libftprintf.a
+Makefile
+m.sh
+printfTester
+t1.out
+test.c
+[1;42m---------------------------val------[1;m
+
+---------------------
+|0x1ffefff98c|?0x1ffefff98c?
+14 14
+ [1;44m---------------------------exe------[1;m
+
+---------------------
+|0x7fffd5aad38c|?0x7fffd5aad38c?
+16 16
+ 
+ft_dectohex.c: OK!
+ft_fun_num.c: OK!
+ft_fun_str.c: OK!
+ft_itoa.c: OK!
+ft_printf.c: Error!
+Error: TOO_MANY_LINES       (line:  47, col:   1):	Function has more than 25 lines
+ft_utoa.c: OK!
+head.h: OK!
+a - ft_dectohex.o
+a - ft_fun_num.o
+a - ft_fun_str.o
+a - ft_itoa.o
+a - ft_printf.o
+a - ft_utoa.o
+ft_dectohex.c
+ft_dectohex.o
+ft_fun_num.c
+ft_fun_num.o
+ft_fun_str.c
+ft_fun_str.o
+ft_itoa.c
+ft_itoa.o
+ft_printf.c
+ft_printf.h
+ft_printf.o
+ft_utoa.c
+ft_utoa.o
+head.h
+libftprintf.a
+Makefile
+m.sh
+printfTester
+t1.out
+test.c
+[1;42m---------------------------val------[1;m
+
+---------------------
+|0x1ffefff98c|?0x1ffefff98c?
+14 14
+ [1;44m---------------------------exe------[1;m
+
+---------------------
+|0x7ffe4c67b73c|?0x7ffe4c67b73c?
+16 16
+ 
+ft_dectohex.c: OK!
+ft_fun_num.c: OK!
+ft_fun_str.c: OK!
+ft_itoa.c: OK!
+ft_printf.c: Error!
+Error: TOO_MANY_LINES       (line:  47, col:   1):	Function has more than 25 lines
+ft_utoa.c: OK!
+head.h: OK!
+a - ft_dectohex.o
+a - ft_fun_num.o
+a - ft_fun_str.o
+a - ft_itoa.o
+a - ft_printf.o
+ft_dectohex.c
+ft_dectohex.o
+ft_fun_num.c
+ft_fun_num.o
+ft_fun_str.c
+ft_fun_str.o
+ft_itoa.c
+ft_itoa.o
+ft_printf.c
+ft_printf.h
+ft_printf.o
+ft_utoa.c
+head.h
+libftprintf.a
+Makefile
+m.sh
+printfTester
+t1.out
+test.c
+[1;42m---------------------------val------[1;m
+[1;44m---------------------------exe------[1;m
+
+ft_dectohex.c: OK!
+ft_fun_num.c: OK!
+ft_fun_str.c: OK!
+ft_itoa.c: OK!
+ft_printf.c: Error!
+Error: TOO_MANY_LINES       (line:  47, col:   1):	Function has more than 25 lines
+ft_utoa.c: OK!
+head.h: OK!
+a - ft_dectohex.o
+a - ft_fun_num.o
+a - ft_fun_str.o
+a - ft_itoa.o
+a - ft_printf.o
+a - ft_utoa.o
+ft_dectohex.c
+ft_dectohex.o
+ft_fun_num.c
+ft_fun_num.o
+ft_fun_str.c
+ft_fun_str.o
+ft_itoa.c
+ft_itoa.o
+ft_printf.c
+ft_printf.h
+ft_printf.o
+ft_utoa.c
+ft_utoa.o
+head.h
+libftprintf.a
+Makefile
+m.sh
+printfTester
+t1.out
+test.c
+[1;42m---------------------------val------[1;m
+
+---------------------
+|0x1ffefff98c|?0x1ffefff98c?
+14 14
+ [1;44m---------------------------exe------[1;m
+
+---------------------
+|0x7ffe798f533c|?0x7ffe798f533c?
+16 16
+ 
+ft_dectohex.c: OK!
+ft_fun_num.c: OK!
+ft_fun_str.c: OK!
+ft_itoa.c: OK!
+ft_printf.c: Error!
+Error: TOO_MANY_LINES       (line:  47, col:   1):	Function has more than 25 lines
+ft_utoa.c: OK!
+head.h: OK!
+a - ft_dectohex.o
+a - ft_fun_num.o
+a - ft_fun_str.o
+a - ft_itoa.o
+a - ft_printf.o
+a - ft_utoa.o
+ft_dectohex.c
+ft_dectohex.o
+ft_fun_num.c
+ft_fun_num.o
+ft_fun_str.c
+ft_fun_str.o
+ft_itoa.c
+ft_itoa.o
+ft_printf.c
+ft_printf.h
+ft_printf.o
+ft_utoa.c
+ft_utoa.o
+head.h
+libftprintf.a
+Makefile
+m.sh
+printfTester
+t1.out
+test.c
+[1;42m---------------------------val------[1;m
+
+---------------------
+|0x1ffefff98c|?0x1ffefff98c?
+14 14
+ [1;44m---------------------------exe------[1;m
+
+---------------------
+|0x7ffc4ca2cd9c|?0x7ffc4ca2cd9c?
+16 16
+ 
