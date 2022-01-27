@@ -21,4 +21,6 @@ cc -Wall -Werror -Wextra test.c libftprintf.a -o tst1
 
 
 rm -f ft*.o
+rm -f *.a
 echo -----------------finish---
+ls
