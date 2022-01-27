@@ -6,7 +6,7 @@
 /*   By: vbekasov <vbekasov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/16 02:05:13 by vbekasov          #+#    #+#             */
-/*   Updated: 2022/01/21 07:42:31 by vbekasov         ###   ########.fr       */
+/*   Updated: 2022/01/28 00:27:25 by vbekasov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -67,7 +67,7 @@ void	point_fun(void *adr, int rub, int *count)
 	}
 	else
 	{
-		write(1, "(nil)", 5);
-		*count += 4;
+		write(1, "0x0", 3);
+		*count += 2;
 	}
 }
