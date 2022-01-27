@@ -12,8 +12,8 @@ int main(void){
 	int tmp2 = printf("pr str=%s|\n", ptr);
 	printf("\n!%d %d!\n ", tmp, tmp2);
 
-	tmp = ft_printf("ft ptr=%p|\n", ptr);
-	tmp2 = printf("pr ptr=%p|\n", ptr);
+	tmp = ft_printf("ft ptr=%p & %s|\n", ptr, row);
+	tmp2 = printf("pr ptr=%p & %s|\n", ptr, row);
 	printf("\n%d %d\n ", tmp, tmp2);
 
 	ptr = row;
