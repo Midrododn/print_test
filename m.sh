@@ -5,14 +5,27 @@ rm -f ft*.o
 rm -f libftprintf.a
 rm -f tst1
 echo -----------git--------
+if [ $1 == "push" ]
+then
+    echo "PUSH";
+    tmp=$(date +"%s");
+    git add .;
+    git commit -m "${tmp}-autocom";
+    git push;
+else
+    echo "NO PUSH"
+fi
+
 if [ $HOSTNAME == "vb-devpc" ]
 then
-    echo PC
+    echo PC;
+    tmp=$(date +"%s");
+    echo "${tmp} arg=$1";
 else
-    echo REMOTE
-    git stash
-    git pull
-    git stash drop
+    echo REMOTE;
+    git stash;
+    git pull;
+    git stash drop;
 fi
 #. ../../vwlfbrg/bin/activate
 norminette ft*.c ft*.h 
