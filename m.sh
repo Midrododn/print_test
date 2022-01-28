@@ -4,7 +4,13 @@ echo ----------------start---------
 rm -f ft*.o
 rm -f libftprintf.a
 rm -f tst1
-
+echo -----------git--------
+if [ $HOSTNAME == "vb-devpc" ]
+then
+    echo PC
+else
+    echo REMOTE
+fi
 #. ../../vwlfbrg/bin/activate
 norminette ft*.c ft*.h 
 #echo -e "\e[1;45m-------------------------norm-------\e[1;m"
@@ -24,3 +30,5 @@ rm -f ft*.o
 rm -f *.a
 echo -----------------finish---
 ls
+echo --------------------
+hostname
