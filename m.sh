@@ -10,6 +10,9 @@ then
     echo PC
 else
     echo REMOTE
+    git stash
+    git pull
+    git stash drop
 fi
 #. ../../vwlfbrg/bin/activate
 norminette ft*.c ft*.h 
