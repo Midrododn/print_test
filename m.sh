@@ -9,8 +9,6 @@ echo -----------git--------
 if [ $HOSTNAME == "vb-devpc" ]
 then
     echo PC;
-    tmp=$(date +"%s");
-    echo "${tmp} arg=$1";
 else
     echo REMOTE;
     git stash;
