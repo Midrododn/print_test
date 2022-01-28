@@ -29,8 +29,7 @@ fi
 norminette ft*.c ft*.h 
 echo -e "\e[1;45m-------------------------norm-------\e[1;m"
 
-cc -Wall -Werror -Wextra -c ft*.c
-ar -cvq libftprintf.a ft*.o
+make re
 ls
 
 cc -Wall -Werror -Wextra test.c libftprintf.a -o tst1
