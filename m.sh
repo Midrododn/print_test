@@ -39,7 +39,6 @@ echo -e "\e[1;44m---------------------------exe------\e[1;m"
 ./tst1
 echo -e "\e[1;44m--------------------finish-exe------\e[1;m"
 
-rm -f ft*.o
-rm -f *.a
+make fclean
 echo -----------------finish---
 ls
