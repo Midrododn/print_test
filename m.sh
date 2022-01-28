@@ -25,8 +25,8 @@ then
 else
     echo "NO PUSH"
 fi
-. ../../vwlfbrg/bin/activate
-norminette ft*.c ft*.h 
+#. ../../vwlfbrg/bin/activate
+#norminette ft*.c ft*.h 
 echo -e "\e[1;45m-------------------------norm-------\e[1;m"
 
 make re
